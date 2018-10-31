@@ -31,7 +31,7 @@ public class ShoppingListServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        Testing 1 2 3
+        System.out.println("Testing 1 2 3"); // Ethan
     }
 
     /**
